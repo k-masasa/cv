@@ -1,16 +1,51 @@
-### Hi there 👋
 
-<!--
-**k-masasa/k-masasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 基本情報
 
-Here are some ideas to get you started:
+| key | value |
+| --- | --- |
+| 名前 | 熊谷 匡史(くまがい まさふみ) |
+| 学歴 | 工業高校卒 |
+| Webアプリ開発歴 | 4年弱 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## スキルセット
+
+### フロントエンド
+
+- Nuxt.js (Vue.js)
+  - version 2, 3
+  - Options API
+  - Composition API
+- TypeScript
+- Leaflet.js
+- jQuery
+- JavaScript
+- SCSS
+- CSS
+- HTML
+
+### バックエンド
+
+- PHP
+  - Laravel
+    - version 6.x
+    - Nuxt.jsの API として使用
+  - CakePHP
+    - version 3.x
+    - MVCモデルのアプリケーションで使用
+- Node.js
+  - Express
+    - version 4.x
+  - TypeORM
+    - version 0.3.x
+
+### DB
+
+- MySQL
+- Amazon DynamoDB
+
+### その他
+
+- Git を用いたバージョン管理
+- 
+
+
