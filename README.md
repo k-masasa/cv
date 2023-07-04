@@ -3,7 +3,7 @@
 
 | key | value |
 | --- | --- |
-| 名前 | 熊谷 匡史(くまがい まさふみ) |
+| 名前 | 熊谷 匡史 (くまがい まさふみ) |
 | 学歴 | 工業高校卒 |
 | Webアプリ開発歴 | 4年弱 |
 
@@ -28,13 +28,14 @@
 - PHP
   - Laravel
     - version 6.x
-    - Nuxt.jsの API として使用
+    - Nuxt.js の API として使用
   - CakePHP
     - version 3.x
-    - MVCモデルのアプリケーションで使用
+    - MVC モデルのアプリケーションで使用
 - Node.js
   - Express
     - version 4.x
+    - Nuxt.js の API として使用
   - TypeORM
     - version 0.3.x
 
@@ -42,10 +43,3 @@
 
 - MySQL
 - Amazon DynamoDB
-
-### その他
-
-- Git を用いたバージョン管理
-- 
-
-
