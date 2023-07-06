@@ -26,22 +26,26 @@
 
 ## # 経歴
 
-## # 主な業務経歴 (直近順)
-
 ### 1. ドローン飛行日誌作成アプリのプロトタイプ 開発 (2022.4 ~ 2023.6)
 
 担当業務
 
-- Nuxt.js, Vue.js のバージョンアップ対応 (ver2 >> ver3)
-- Vuetify を使用した UI 実装
-- Express　* TypeScript で API 実装
-- DB の Migration, Seeder ファイル実装
+- ...
+- フロントエンド：
+  - Nuxt2/Vue2 を 3 にバージョンアップして、Nuxt3 * TypeScript * Vuetify3
+- バックエンド：
+  - Express * TypeScript * TypeORM
+  - API 実装
+  - DB の Migration, Seeder ファイル実装
 
 ### 2. ドローン壁面点検アプリ 開発・保守 (2022.7 ~ 2023.4)
 
 担当業務
-
-- 
+- ...
+- フロントエンド：
+  - Nuxt2 * TypeScript * Vuetify2 * Leaflet.js
+- バックエンド:
+  - Express * TypeScript * TypeORM
 
 ### 3. 医学会向け 会員管理システム 開発 (2021.1 ~ 2022.6)
 
@@ -52,3 +56,4 @@
 
 担当業務
 - ...
+
