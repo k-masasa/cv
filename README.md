@@ -4,25 +4,48 @@
 | --- | --- |
 | 名前 | 熊谷 匡史 |
 | 学歴 | 工業高校卒 |
-| Webアプリ開発歴 | 3年半 |
+| Web アプリ開発歴 | 4年 |
+| 職歴 | 製造業 >> 飲食業 >> 現在 |
 
 ## スキルセット
 
 ### フロントエンド
 
-`Nuxt.js`, `Vue.js`, `Vuetify`, `TypeScript`, `Leaflet.js`, `jQuery`, `JavaScript`, `SCSS`, `CSS`, `HTML`
+- JavaScript
+  - Nuxt.js 2,x, 3.x
+  - Vue.js 2.x, 3.x
+  - Vuetify 2.x, 3.x
+  - TypeScript 5.x
+  - Leaflet.js
+    - Leaflet Draw
+  - Cesium.js
+  - jQuery
+- CSS
+  - SCSS
+- HTML
 
 ### バックエンド
 
-`PHP (Laravel, CakePHP)`, `Node.js (Express)`
+- PHP
+  - Laravel 6.x
+  - CakePHP 3.x
+- Node.js
+  - Express 4.x
 
 ### DB
 
-`MySQL`, `Amazon DynamoDB`
+- MySQL
+- Amazon DynamoDB
 
 ### その他
 
-`Git`, `Docker`, `Docker Compose`
+- Git
+- Figma
+- Docker
+  - Docker Compose
+- Linux
+  - CentOS
+  - Ubuntu
 
 ## 経歴
 
@@ -39,16 +62,8 @@
 ### 2. 不動産向けドローン壁面点検アプリ 開発・保守 (2022.7 ~ 2023.4)
 
 - 使用技術
-  - 
-
-担当業務
-
-- フロントエンド
-  - Vue2 Composition API, TypeScript を使用して、各画面の UI やロジックの改修
-  - 
-- バックエンド
-  - Express, TypeScript を使用して API 実装
-  - 
+  - Nuxt2 (Vue2, Composition API), Vuetify2, Express, OpenAPI, TypeScript, MySQL, Azure Blob Storage, Azure Queue Storage ..
+- 担当業務
 
 ### 3. 医学会向け 会員管理システム 開発 (2021.1 ~ 2022.6)
 
