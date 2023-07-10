@@ -12,10 +12,10 @@
 ### フロントエンド
 
 - JavaScript
-  - Nuxt.js 2,x, 3.x
-  - Vue.js 2.x, 3.x
-  - Vuetify 2.x, 3.x
-  - TypeScript 5.x
+  - Nuxt.js 2, 3
+  - Vue.js 2, 3
+  - Vuetify 2, 3
+  - TypeScript 5
   - Leaflet.js
   - Cesium.js
   - jQuery
@@ -54,6 +54,8 @@
 
 ### 2. ドローン飛行日誌作成アプリのプロトタイプ 新規開発 (2022.4 ~ 2023.6)
 
+- アプリ概要
+  - ドローンを飛行する際に記録する日誌を簡単に作成できるアプリケーション。
 - 使用技術
   - Nuxt3 (Vue3, Composition API, Pinia), Vuetify3, Express, TypeORM, TypeScript, MySQL, Docker ..
 - 主な担当業務
@@ -64,6 +66,8 @@
 
 ### 3. 不動産向けドローン壁面点検アプリ 開発・保守 (2022.7 ~ 2023.4)
 
+- アプリ概要
+  - ドローンで壁面を撮影し、それらの画像を AI、目視で解析して異常を検知し、報告書 (pptx) にまとめて出力できるアプリケーション。
 - 使用技術
   - Nuxt2 (Vue2, Composition API), Vuetify2, Leaflet.js, Express, TypeORM, OpenAPI, TypeScript, Jest, MySQL, Azure Blob Storage, Azure Queue Storage, Docker ..
 - 主な担当業務
@@ -74,6 +78,11 @@
 
 ### 4. 医学会向け会員管理システム 管理画面・会員マイページ 新規開発 (2021.1 ~ 2022.6)
 
+- アプリ概要
+  - 某医学会向けの会員管理システム。
+  - 事務局ユーザーが使用する管理画面と、学会の各会員が使用可能なマイページ画面があり。
+  - 管理画面では会員一覧のステータスや各支部の情報、メールの送信や資格申請の承認などが可能。
+  - マイページでは資格申請や毎月の会費支払い等が可能。
 - 使用技術
   - Nuxt2 (Vue2, Options API), Vuetify2, Laravel, Mailgun, MySQL, Amazon DynamoDB, Docker ..
 - 主な担当業務
@@ -86,8 +95,7 @@
 
 - アプリ概要
   - 管理画面
-    - ユーザーの架電予約管理
-    - 会員ページの UI やボタン押下時の遷移先リンクをカスタマイズ等
+    - ユーザーの架電予約管理や、会員ページの　UI カスタマイズが可能
   - 会員ページ
     - 架電予約や企業への問い合わせメッセージを送信可能
 - 使用技術
