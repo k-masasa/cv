@@ -11,15 +11,16 @@
 ### フロントエンド
 
 - JavaScript
+  - TypeScript 5
   - Nuxt.js 2, 3
   - Vue.js 2, 3
   - Vuetify 2, 3
-  - TypeScript 5
   - Leaflet.js
   - Cesium.js
   - jQuery
 - CSS
   - SCSS
+  - Tailwind CSS
 - HTML
 
 ### バックエンド
@@ -34,6 +35,7 @@
 
 - MySQL
 - Amazon DynamoDB
+- PostgreSQL
 
 ### その他
 
