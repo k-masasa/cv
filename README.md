@@ -51,19 +51,27 @@
 - アプリ概要
   - Web で 3D の地形を操作して、地域の避難場所等を確認できるアプリケーション
 - 使用技術
-  - Vue3, Cesium.js, Pinia, Python ..
+  - Vue3, Cesium.js, Pinia, Python (FastAPI), Tailwind CSS ..
+- 主な担当業務
+  - マップの避難所を選択した時に表示される Cesium の infoBox (iframe) をカスタマイズして、任意の情報を表示。
+  - Google Analytics タグを設定して、各種イベントを送信してアクセス解析を可能に。
+  - 某自治体向けの、初期表示時 loading 画面を実装。
+  - スマホ版の UI と、PC/スマホモードの切り替え機能を実装。
+  - マップの現在地アイコンの切り替え機能を実装。
+  - GitHub Actions で ESLint を実行するワークフローを追加。
+  - バックエンドの　API 実装。
 
 ### 2. ドローン飛行日誌作成アプリのプロトタイプ 新規開発 (2022.4 ~ 2023.6)
 
 - アプリ概要
   - ドローンを飛行する際に記録する日誌を簡単に作成できるアプリケーション。
 - 使用技術
-  - Nuxt3 (Vue3, Composition API, Pinia), Vuetify3, Express, TypeORM, TypeScript, MySQL, Docker ..
+  - Nuxt3 (Vue3, Composition API, Pinia), Vuetify3, Express, TypeORM, TypeScript, Laravel, MySQL, Docker ..
 - 主な担当業務
   - Vue2, Nuxt2 を 3 にバージョンアップ。
   - 各画面の UI やロジックを実装。
   - データ抽出、登録等の API 実装。
-  - DB の migration, seeder ファイル作成。
+  - DB の Migration, Seeder ファイル作成。
 
 ### 3. 不動産向けドローン壁面点検アプリ 開発・保守 (2022.7 ~ 2023.4)
 
