@@ -54,7 +54,7 @@
 - アプリ概要
   - Web で 3D の地形を操作して、地域の避難場所等を確認できるアプリケーション
 - 使用技術
-  - Vue3, Cesium.js, Pinia, Python (FastAPI), Tailwind CSS ..
+  - Vue3, Cesium.js, Pinia, Tailwind CSS, Python (FastAPI), PostgreSQL ..
 - 主な担当業務
   - マップの避難所を選択した時に表示される Cesium の infoBox (iframe) をカスタマイズして、任意の情報を表示。
   - Google Analytics タグを設定して、各種イベントを送信してアクセス解析を可能に。
