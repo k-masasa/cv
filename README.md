@@ -83,7 +83,7 @@
 ※ 「2.」「3.」は同一企業様のプロジェクトとなります。
 
 - アプリ概要
-  - ドローンで壁面を撮影し、それらの画像を AI、目視で解析して異常を検知し、報告書 (pptx) にまとめて出力できるアプリケーション。
+  - ドローンで撮影した壁面の画像を AI、目視で解析して異常を検知し解析後、報告書 (pptx) を出力できるアプリケーション。
 - 使用技術
   - Nuxt2 (Vue2, Composition API), Vuetify2, Leaflet.js, Express, TypeORM, OpenAPI, TypeScript, Jest, MySQL, Azure Blob Storage, Azure Queue Storage, Docker ..
 - 主な担当業務
