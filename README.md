@@ -30,7 +30,7 @@
   - Laravel 6.x
   - CakePHP 3.x
 - Node.js
-  - Express 4.x
+  - Express 4.x (TypeScript)
 
 ### DB
 
