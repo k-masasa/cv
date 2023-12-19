@@ -29,6 +29,8 @@
   - CakePHP 3.x
 - Node.js
   - Express 4.x (TypeScript)
+- Python
+  - FastAPI
 
 ### DB
 
